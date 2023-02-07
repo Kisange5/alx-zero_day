@@ -1,0 +1,3 @@
+Example of files to be never pushed on git;
+Files with a . in there name
+files with ~ in there name
